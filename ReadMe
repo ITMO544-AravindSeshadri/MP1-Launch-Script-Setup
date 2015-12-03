@@ -1,0 +1,5 @@
+Execution Instruction
+---------------------
+
+Kindly execute the setup.php file once the launch.sh file is executed and the master DB instance is in available state.
+For the read-only DB instance to be created, kindly run the launch.sh script again.
